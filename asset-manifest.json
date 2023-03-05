@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/SolutionChallenge/static/css/main.073c9b0a.css",
+    "main.js": "/SolutionChallenge/static/js/main.165ee3c1.js",
+    "static/js/787.3f7bfba2.chunk.js": "/SolutionChallenge/static/js/787.3f7bfba2.chunk.js",
+    "static/media/logo.svg": "/SolutionChallenge/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/SolutionChallenge/index.html",
+    "main.073c9b0a.css.map": "/SolutionChallenge/static/css/main.073c9b0a.css.map",
+    "main.165ee3c1.js.map": "/SolutionChallenge/static/js/main.165ee3c1.js.map",
+    "787.3f7bfba2.chunk.js.map": "/SolutionChallenge/static/js/787.3f7bfba2.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.165ee3c1.js"
+  ]
+}
