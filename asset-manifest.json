@@ -1,16 +1,20 @@
 {
   "files": {
-    "main.css": "/SolutionChallenge/static/css/main.073c9b0a.css",
-    "main.js": "/SolutionChallenge/static/js/main.165ee3c1.js",
-    "static/js/787.3f7bfba2.chunk.js": "/SolutionChallenge/static/js/787.3f7bfba2.chunk.js",
-    "static/media/logo.svg": "/SolutionChallenge/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "main.css": "/SolutionChallenge/static/css/main.b359044a.css",
+    "main.js": "/SolutionChallenge/static/js/main.92982b56.js",
+    "static/media/s2.jpeg": "/SolutionChallenge/static/media/s2.ae0960a6d3fae01d99f5.jpeg",
+    "static/media/c2.jpeg": "/SolutionChallenge/static/media/c2.739b04e6e8b94a064ae8.jpeg",
+    "static/media/c3.jpeg": "/SolutionChallenge/static/media/c3.cd3bcc774602282c7baf.jpeg",
+    "static/media/c1.jpeg": "/SolutionChallenge/static/media/c1.4950d59f20a71ec75f05.jpeg",
+    "static/media/s1.jpeg": "/SolutionChallenge/static/media/s1.c6c5749d874d1b486234.jpeg",
+    "static/media/s3.jpeg": "/SolutionChallenge/static/media/s3.96646b8be7b25dd3205e.jpeg",
+    "static/media/bc.avif": "/SolutionChallenge/static/media/bc.961ad00b8c26b0dd080f.avif",
     "index.html": "/SolutionChallenge/index.html",
-    "main.073c9b0a.css.map": "/SolutionChallenge/static/css/main.073c9b0a.css.map",
-    "main.165ee3c1.js.map": "/SolutionChallenge/static/js/main.165ee3c1.js.map",
-    "787.3f7bfba2.chunk.js.map": "/SolutionChallenge/static/js/787.3f7bfba2.chunk.js.map"
+    "main.b359044a.css.map": "/SolutionChallenge/static/css/main.b359044a.css.map",
+    "main.92982b56.js.map": "/SolutionChallenge/static/js/main.92982b56.js.map"
   },
   "entrypoints": [
-    "static/css/main.073c9b0a.css",
-    "static/js/main.165ee3c1.js"
+    "static/css/main.b359044a.css",
+    "static/js/main.92982b56.js"
   ]
 }
