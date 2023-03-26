@@ -1,24 +1,22 @@
 {
   "files": {
-    "main.css": "/SolutionChallenge/static/css/main.dde204ad.css",
-    "main.js": "/SolutionChallenge/static/js/main.021945b5.js",
-    "static/media/untitled.glb": "/SolutionChallenge/static/media/untitled.cf6b42c8706b18d60a22.glb",
+    "main.css": "/SolutionChallenge/static/css/main.14e1b4f3.css",
+    "main.js": "/SolutionChallenge/static/js/main.98452310.js",
     "static/media/s2.jpeg": "/SolutionChallenge/static/media/s2.ae0960a6d3fae01d99f5.jpeg",
-    "static/media/c2.jpeg": "/SolutionChallenge/static/media/c2.739b04e6e8b94a064ae8.jpeg",
-    "static/media/c3.jpeg": "/SolutionChallenge/static/media/c3.cd3bcc774602282c7baf.jpeg",
-    "static/media/c1.jpeg": "/SolutionChallenge/static/media/c1.4950d59f20a71ec75f05.jpeg",
     "static/media/s1.jpeg": "/SolutionChallenge/static/media/s1.c6c5749d874d1b486234.jpeg",
     "static/media/s3.jpeg": "/SolutionChallenge/static/media/s3.96646b8be7b25dd3205e.jpeg",
+    "static/media/c2.jpg": "/SolutionChallenge/static/media/c2.69e7e5e33a42e778a369.jpg",
+    "static/media/c3.jpg": "/SolutionChallenge/static/media/c3.cab29bf05d8e7001f1df.jpg",
+    "static/media/c1.jpg": "/SolutionChallenge/static/media/c1.944b8eb77e1bc5d73eb6.jpg",
     "static/media/tex1.jpeg": "/SolutionChallenge/static/media/tex1.7ac7471319be5582d17f.jpeg",
     "static/media/bc.avif": "/SolutionChallenge/static/media/bc.961ad00b8c26b0dd080f.avif",
-    "static/media/LL.glb": "/SolutionChallenge/static/media/LL.ea356a9bbcc324f56d71.glb",
-    "static/media/Monkey.gltf": "/SolutionChallenge/static/media/Monkey.05c76b27a07fb9fced89.gltf",
+    "static/media/tex2.avif": "/SolutionChallenge/static/media/tex2.064d668ce5445da6309f.avif",
     "index.html": "/SolutionChallenge/index.html",
-    "main.dde204ad.css.map": "/SolutionChallenge/static/css/main.dde204ad.css.map",
-    "main.021945b5.js.map": "/SolutionChallenge/static/js/main.021945b5.js.map"
+    "main.14e1b4f3.css.map": "/SolutionChallenge/static/css/main.14e1b4f3.css.map",
+    "main.98452310.js.map": "/SolutionChallenge/static/js/main.98452310.js.map"
   },
   "entrypoints": [
-    "static/css/main.dde204ad.css",
-    "static/js/main.021945b5.js"
+    "static/css/main.14e1b4f3.css",
+    "static/js/main.98452310.js"
   ]
 }
