@@ -1,22 +1,27 @@
 {
   "files": {
-    "main.css": "/SolutionChallenge/static/css/main.14e1b4f3.css",
-    "main.js": "/SolutionChallenge/static/js/main.98452310.js",
+    "main.css": "/SolutionChallenge/static/css/main.7e3842ed.css",
+    "main.js": "/SolutionChallenge/static/js/main.6332f8fc.js",
+    "static/media/Peepal.glb": "/SolutionChallenge/static/media/Peepal.7757c6b23f65de8de161.glb",
+    "static/media/Banyan.glb": "/SolutionChallenge/static/media/Banyan.c512b906cb8d7f9ba8ee.glb",
+    "static/media/Arjuna.glb": "/SolutionChallenge/static/media/Arjuna.09943fbc3a9cec449361.glb",
+    "static/media/Bael.glb": "/SolutionChallenge/static/media/Bael.1d024eaef41cbccafab0.glb",
     "static/media/s2.jpeg": "/SolutionChallenge/static/media/s2.ae0960a6d3fae01d99f5.jpeg",
     "static/media/s1.jpeg": "/SolutionChallenge/static/media/s1.c6c5749d874d1b486234.jpeg",
     "static/media/s3.jpeg": "/SolutionChallenge/static/media/s3.96646b8be7b25dd3205e.jpeg",
     "static/media/c2.jpg": "/SolutionChallenge/static/media/c2.69e7e5e33a42e778a369.jpg",
     "static/media/c3.jpg": "/SolutionChallenge/static/media/c3.cab29bf05d8e7001f1df.jpg",
     "static/media/c1.jpg": "/SolutionChallenge/static/media/c1.944b8eb77e1bc5d73eb6.jpg",
+    "static/media/Neem.glb": "/SolutionChallenge/static/media/Neem.d20aee1902f549415e6d.glb",
     "static/media/tex1.jpeg": "/SolutionChallenge/static/media/tex1.7ac7471319be5582d17f.jpeg",
     "static/media/bc.avif": "/SolutionChallenge/static/media/bc.961ad00b8c26b0dd080f.avif",
     "static/media/tex2.avif": "/SolutionChallenge/static/media/tex2.064d668ce5445da6309f.avif",
     "index.html": "/SolutionChallenge/index.html",
-    "main.14e1b4f3.css.map": "/SolutionChallenge/static/css/main.14e1b4f3.css.map",
-    "main.98452310.js.map": "/SolutionChallenge/static/js/main.98452310.js.map"
+    "main.7e3842ed.css.map": "/SolutionChallenge/static/css/main.7e3842ed.css.map",
+    "main.6332f8fc.js.map": "/SolutionChallenge/static/js/main.6332f8fc.js.map"
   },
   "entrypoints": [
-    "static/css/main.14e1b4f3.css",
-    "static/js/main.98452310.js"
+    "static/css/main.7e3842ed.css",
+    "static/js/main.6332f8fc.js"
   ]
 }
